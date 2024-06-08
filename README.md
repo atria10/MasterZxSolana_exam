@@ -2,7 +2,7 @@ this project is for MasterZxSolana Foundation Bootcamp
 
 Instructions:
 
-1. KEYGEN Creation ---> keyjen.js
+1. KEYGEN Creation ---> keygen.js
 2. Airdropping ---> airdrop.js
 3. create a minting address ---> spl_init.js
 4. token minting ---> spl_mint.js
