@@ -1,0 +1,22 @@
+{
+  "name": "exam",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "keygen": "node keygen.js",
+    "airdrop": "node airdrop.js",
+    "createMint": "node spl_init.js",
+    "mintToken": "node spl_mint.js",
+    "transfer": "node spl_transfer.js"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@solana/spl-token": "^0.4.6",
+    "@solana/web3.js": "^1.92.3"
+  }
+}
